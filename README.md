@@ -8,6 +8,8 @@
 
 
 
+
+
 4. Enum us a special typeScript type that allows to define a set of named constants
 
 It makes code easier to maintain and it makes code more and more readable
